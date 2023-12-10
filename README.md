@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahalakshmi
 - 🌱 I’m currently learning Full Stack Web Development
 - 👀 I’m interested in Books and learning new things
-- 
 
 <!---
 Maha-lakshmi-27/Maha-lakshmi-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
